@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CodeQuest2014">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MikesCode.zip!/" />
+      <root url="jar://$PROJECT_DIR$/HollysCode.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
