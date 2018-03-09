@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e5a71a-1060-4113-8dab-a7c826b4c616" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Prob06.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Prob07.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,11 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Prob06.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Prob06.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Prob06.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
+            <state relative-caret-position="707">
               <caret line="59" column="47" lean-forward="false" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Prob07.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Prob07.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="70" column="64" lean-forward="false" selection-start-line="70" selection-start-column="64" selection-end-line="70" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -72,6 +82,7 @@
         <option value="$PROJECT_DIR$/src/Prob04.java" />
         <option value="$PROJECT_DIR$/src/Prob05.java" />
         <option value="$PROJECT_DIR$/src/Prob06.java" />
+        <option value="$PROJECT_DIR$/src/Prob07.java" />
       </list>
     </option>
   </component>
@@ -150,21 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Prob06">
-    <configuration name="Prob02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Prob02" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CodeQuest2014" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Application.Prob07">
     <configuration name="Prob03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Prob03" />
@@ -210,6 +207,20 @@
     <configuration name="Prob06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Prob06" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CodeQuest2014" />
+      <envs />
+    </configuration>
+    <configuration name="Prob07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Prob07" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -303,19 +314,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Prob02" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Prob03" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Prob04" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Prob05" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Prob06" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Prob03" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Prob04" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Prob05" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Prob06" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Prob07" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Prob06" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Prob05" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Prob04" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Prob03" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Prob02" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Prob07" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Prob06" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Prob05" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Prob04" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Prob03" />
       </list>
     </recent_temporary>
   </component>
@@ -543,8 +554,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Prob06.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
+        <state relative-caret-position="707">
           <caret line="59" column="47" lean-forward="false" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prob07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="70" column="64" lean-forward="false" selection-start-line="70" selection-start-column="64" selection-end-line="70" selection-end-column="64" />
           <folding />
         </state>
       </provider>
