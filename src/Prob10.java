@@ -21,7 +21,7 @@ class Prob10 {
     public static void main(String[] args){
         List<Track> tracks = new ArrayList<>();
         List<List<Boolean>> dividers = new ArrayList<>();
-        try(BufferedReader br = new BufferedReader(new FileReader(new File("downloads/JudgingIO/Prob10.in.txt")))) { //change problem #
+        try(BufferedReader br = new BufferedReader(new FileReader(new File("downloads/ExampleIO/Prob10.in.txt")))) { //change problem #
             String line;
             boolean isTrack = true;
             while ((line = br.readLine()) != null){
